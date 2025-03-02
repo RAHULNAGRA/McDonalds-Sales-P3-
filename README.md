@@ -1,4 +1,4 @@
-# McDonald's-Sales-Analysis-Project-P3-
+# McDonald's-Sales-Analysis-Project-P3
 
 ## Project Overview:
 This project focuses on analyzing McDonald’s US sales data using Excel to create an interactive, dynamic dashboard.
