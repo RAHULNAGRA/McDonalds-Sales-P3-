@@ -4,7 +4,7 @@
 This project focuses on analyzing McDonald’s US sales data using Excel to create an interactive, dynamic dashboard.
 The goal is to explore key sales metrics, item popularity, customer preferences, and time-based trends, offering actionable insights to support business decisions and strategy optimization.
 
-**McDonald's Sales**
+**McDonald's Sales**:
 Create an interactive and dynamic dashboard in Excel using the McDonald's sales dataset to analyze various aspects of sales performance, item popularity, customer preferences, and time-based trends. The dashboard should provide actionable insights and allow for easy data exploration.
 
 ## Dataset:
@@ -14,7 +14,7 @@ The dataset provides detailed information on orders, menu items, and the time of
 
 Before performing analysis, check for duplicates and in case of null values, utilize forward/backward fill.
 
-**Questions**:
+# Questions:
 1. What is the total sales revenue for each category of menu items?
 2. How many orders are placed each day?
 3. Which menu item is the most frequently ordered?
