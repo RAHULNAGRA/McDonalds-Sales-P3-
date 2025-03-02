@@ -1,1 +1,1 @@
-# McDonald-s-Sales-P3-
+# McDonald-s-Sales-Project-P3-
